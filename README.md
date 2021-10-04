@@ -1,2 +1,2 @@
 # NARWHAL
-# More Stuff
+This repository is part of the NARWHAL (Nautical Autonmous Robot for Wire Hunting through Analysis and Localization) project, which is focused on creating an AUV to autonomusly detect and chart subsea cables. The repository is divided into two main folders: one for Arduino code and one for Processing code. The Aruduino code's purpose is to control a SeaGlide AUV designed by SeaGlide and a number of adafruit sensors attached to it. In fact, the buoyancy controller code for the AUV is taken directly from the SeaGlide firmware page. The Processing software is meant to create a GUI to allow the user to easily enter various pre-conditions and any specializations for the mission.
